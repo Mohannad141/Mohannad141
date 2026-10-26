@@ -54,7 +54,7 @@ Computer Science  ──►  Systems & Linux  ──►  Blue Team / SOC  ──
 * Integrated multi-provider LLMs (OpenAI, Google Gemini, DeepSeek) using **LangChain** and **LangGraph** for dynamic branching decisions.
 * Developed an asynchronous backend with **FastAPI**, **SQLAlchemy 2.0 (asyncpg)**, and an interactive **React 19** analytics dashboard with trace variant inspection and distribution charts.
 
-#### [Ketabukl](https://github.com/Mohannad141/Ketabuk)
+#### [Ketabuk](https://ketabuk.app)
 > *A privacy-focused, local-first mobile habit and mindfulness tracking application.*
 >
 > `React Native` `Expo` `TypeScript` `SQLite` `Tailwind CSS / NativeWind` `Zustand`
